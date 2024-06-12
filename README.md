@@ -19,3 +19,13 @@ To get started with the Angular Calculator App, follow these steps:
    ```bash
    git clone https://github.com/Ammad33/calculator-app.git
    cd calculator-app
+
+2. **Install Dependencies:**
+   ```bash
+   npm i
+
+3. **Run the application:**
+   ```bash
+   ng serve
+
+
