@@ -17,5 +17,5 @@ To get started with the Angular Calculator App, follow these steps:
 
 1. **Clone the repository:**
    ```bash
-   git clone <repository_url>
+   git clone https://github.com/Ammad33/calculator-app.git
    cd calculator-app
